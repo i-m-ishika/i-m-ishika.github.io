@@ -9,7 +9,7 @@ Every person you ever interact with/meet has a different version of you in their
 My version of me: A girl who loves reading, dogs, chocolates and has a pretty quirky sense of humor. Read on, and you'll form your own version of me. Phew!
 
 
-## Pro Tip #1
+### Pro Tip #1
 
 Things you *must* choose carefully:
 1. Hair dye (You gotta live with it for months)
