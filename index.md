@@ -24,3 +24,5 @@ Things you *must* choose carefully:
     3.1. You start taking previously unexplored routes, roads that X might use.
 4. Suddenly, you are very aware of X's presence.
 5. You get louder/quieter when X is around.
+
+*Author's Note: Love is beautiful, but GOD it is crazy!*
