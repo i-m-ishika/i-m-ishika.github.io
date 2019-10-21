@@ -21,8 +21,9 @@ Things you *must* choose carefully:
 1. You get affected by little things your brain says are stupid but your heart disagrees.
 2. All of a sudden, songs have meaning and remind you of X.
 3. Your eyes are always searching for X.
-   
+
    3.1. You start taking previously unexplored routes, roads that X might use.
+
 4. Suddenly, you are very aware of X's presence.
 5. You get louder/quieter when X is around.
 
