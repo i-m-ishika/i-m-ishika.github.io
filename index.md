@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+[![Ishika Mitra's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/imishika)
+ 
 ## About Me
 
 Every person you ever interact with/meet has a different version of you in their mind. So, who am I? That's a multiple answer question.
